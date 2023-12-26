@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I am learning the development
+I am an upcoming Developer
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [ebenezerjoshua1410@gmail.com](mailto:ebenezerjoshua1410@gmail.com)
-* 🧠  I'm learning C Language
+* 🧠  I'm learning C Language, Javascript
 * 🤝  I'm open to collaborating on Some Projects
-* ⚡  I am a student too
+* ⚡  I am a student of Computers
 
 ### Skills
 
