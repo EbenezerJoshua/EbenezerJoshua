@@ -8,8 +8,8 @@ I am an upcoming Developer
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [ebenezerjoshua1410@gmail.com](mailto:ebenezerjoshua1410@gmail.com)
-* 🧠  I'm learning C Language, Javascript
-* 🤝  I'm open to collaborating on Some Projects
+* 🧠  I'm learning Javascript, VueJS and Nuxt JS
+* 🤝  I'm open to collaborate on Some Projects
 * ⚡  I am a student of Computers
 
 ### Skills
