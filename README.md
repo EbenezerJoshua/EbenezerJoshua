@@ -22,7 +22,17 @@ Apps In Netlify
 * https://countcalculatorapp.netlify.app/
 * https://vjassignment.netlify.app/
 * https://demositeeee.netlify.app/
-* <a href="https://demositeeee.netlify.app/">Demo Site</a>
+
+* Apps In Netlify
+* [myresponsivedesignsite](https://myresponsivedesignsite.netlify.app/){:target="_blank"}
+* [restaurantorder](https://restaurantorder.netlify.app/){:target="_blank"}
+* [shoppinglistappp](https://shoppinglistappp.netlify.app/){:target="_blank"}
+* [ebenezerjoshuabirthday](https://ebenezerjoshuabirthday.netlify.app/){:target="_blank"}
+* [businesscardemo](https://businesscardemo.netlify.app/){:target="_blank"}
+* [blackjackgamescr](https://blackjackgamescr.netlify.app/){:target="_blank"}
+* [countcalculatorapp](https://countcalculatorapp.netlify.app/){:target="_blank"}
+* [vjassignment](https://vjassignment.netlify.app/){:target="_blank"}
+* [demositeeee](https://demositeeee.netlify.app/){:target="_blank"}
 
 ### Skills
 
