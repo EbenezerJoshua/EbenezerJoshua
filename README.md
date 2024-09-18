@@ -23,16 +23,16 @@ Apps In Netlify
 * https://vjassignment.netlify.app/
 * https://demositeeee.netlify.app/
 
-* Apps In Netlify
-* [myresponsivedesignsite](https://myresponsivedesignsite.netlify.app/){:target="_blank"}
-* [restaurantorder](https://restaurantorder.netlify.app/){:target="_blank"}
-* [shoppinglistappp](https://shoppinglistappp.netlify.app/){:target="_blank"}
-* [ebenezerjoshuabirthday](https://ebenezerjoshuabirthday.netlify.app/){:target="_blank"}
-* [businesscardemo](https://businesscardemo.netlify.app/){:target="_blank"}
-* [blackjackgamescr](https://blackjackgamescr.netlify.app/){:target="_blank"}
-* [countcalculatorapp](https://countcalculatorapp.netlify.app/){:target="_blank"}
-* [vjassignment](https://vjassignment.netlify.app/){:target="_blank"}
-* [demositeeee](https://demositeeee.netlify.app/){:target="_blank"}
+Apps In Netlify
+* <a href="https://myresponsivedesignsite.netlify.app/" target="_blank">myresponsivedesignsite</a>
+* <a href="https://restaurantorder.netlify.app/" target="_blank">restaurantorder</a>
+* <a href="https://shoppinglistappp.netlify.app/" target="_blank">shoppinglistappp</a>
+* <a href="https://ebenezerjoshuabirthday.netlify.app/" target="_blank">ebenezerjoshuabirthday</a>
+* <a href="https://businesscardemo.netlify.app/" target="_blank">businesscardemo</a>
+* <a href="https://blackjackgamescr.netlify.app/" target="_blank">blackjackgamescr</a>
+* <a href="https://countcalculatorapp.netlify.app/" target="_blank">countcalculatorapp</a>
+* <a href="https://vjassignment.netlify.app/" target="_blank">vjassignment</a>
+* <a href="https://demositeeee.netlify.app/" target="_blank">demositeeee</a>
 
 ### Skills
 
