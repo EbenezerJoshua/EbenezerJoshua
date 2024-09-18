@@ -22,7 +22,7 @@ Apps In Netlify
 * https://countcalculatorapp.netlify.app/
 * https://vjassignment.netlify.app/
 * https://demositeeee.netlify.app/
-* <a href="https://demositeeee.netlify.app/" Demo Site/>
+* <a href="https://demositeeee.netlify.app/">Demo Site</a>
 
 ### Skills
 
