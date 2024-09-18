@@ -13,17 +13,6 @@ I am an upcoming Developer
 * ⚡  I am a student of Computers
 
 Apps In Netlify
-* https://myresponsivedesignsite.netlify.app/
-* https://restaurantorder.netlify.app
-* https://shoppinglistappp.netlify.app/
-* https://ebenezerjoshuabirthday.netlify.app/
-* https://businesscardemo.netlify.app/
-* https://blackjackgamescr.netlify.app/
-* https://countcalculatorapp.netlify.app/
-* https://vjassignment.netlify.app/
-* https://demositeeee.netlify.app/
-
-Apps In Netlify
 * <a href="https://myresponsivedesignsite.netlify.app/" target="_blank">myresponsivedesignsite</a>
 * <a href="https://restaurantorder.netlify.app/" target="_blank">restaurantorder</a>
 * <a href="https://shoppinglistappp.netlify.app/" target="_blank">shoppinglistappp</a>
