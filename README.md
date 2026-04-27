@@ -23,6 +23,83 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
+  <!-- 🌐 Frontend -->
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td>
+    <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a></td>
+    <td><a href="https://nuxtjs.org/"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40"/></a></td>
+    <td><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a></td>
+  </tr>
+
+  <!-- ⚙️ Backend -->
+  <tr>
+    <td><b>Backend</b></td>
+    <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/></a></td>
+    <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a></td>
+  </tr>
+
+  <!-- 🗄️ Databases -->
+  <tr>
+    <td><b>Databases</b></td>
+    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a></td>
+  </tr>
+
+  <!-- ☁️ DevOps & Cloud -->
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a></td>
+    <td><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a></td>
+  </tr>
+
+  <!-- 🛠️ Tools -->
+  <tr>
+    <td><b>Tools</b></td>
+    <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a></td>
+    <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a></td>
+    <td><a href="https://webpack.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="40"/></a></td>
+    <td><a href="https://babeljs.io/"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40"/></a></td>
+  </tr>
+
+  <!-- 📱 Mobile & Desktop -->
+  <tr>
+    <td><b>Mobile & Desktop</b></td>
+    <td><a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a></td>
+    <td><a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></a></td>
+    <td><a href="https://www.electronjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/></a></td>
+  </tr>
+
+  <!-- 🎨 Design -->
+  <tr>
+    <td><b>Design</b></td>
+    <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a></td>
+  </tr>
+
+  <!-- 🖥️ System -->
+  <tr>
+    <td><b>System</b></td>
+    <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a></td>
+    <td><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a></td>
+  </tr>
+
+  <!-- 📘 Languages -->
+  <tr>
+    <td><b>Languages</b></td>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a></td>
+  </tr>
+</table>
+
+<!-- <table>
   <tr>
     <td><a href="https://babeljs.io/"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40"/></a></td>
     <td><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a></td>
@@ -46,7 +123,7 @@
   </tr>
 
   <!-- Add more rows as needed -->
-</table>
+</table> -->
 
 
 <!-- <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
