@@ -7,7 +7,7 @@
 - 🤝 I’m looking for help with **Database Modelling**
 - 💬 Ask me about **react, node, typescript, javascript, express, bun, nextJS**
 - 📫 How to reach me **ebenezerjoshua1410@gmail.com**
-- ⚡ Fun fact **I think I am funny but found out it is not**
+- ⚡ Fun fact **I think I am funny but found out it is not** 😅😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
